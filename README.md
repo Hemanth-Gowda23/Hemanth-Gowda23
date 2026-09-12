@@ -1,85 +1,87 @@
-# Hi, I'm Hemanth R 👋
+# Hemanth Rangaswamy
 
-**Technology Graduate · Data Analyst · Melbourne, Australia**
+**Data Analyst | Melbourne, Australia**
 
-Master of Data Science @ RMIT University · Bachelor of Engineering (Information Science) @ VTU Bangalore
+Power BI, SQL, Python. Master of Data Science, RMIT. IEEE published.
+
+**Portfolio: [hemanth-gowda23.github.io/Portfolio_Gowda23](https://hemanth-gowda23.github.io/Portfolio_Gowda23/)**
 
 ---
 
 ## What I do
 
-I turn raw data into decisions. My work sits at the intersection of data engineering, analytics, and business intelligence — building pipelines, dashboards, and tools that help teams understand what their data is actually saying.
+I clean up data people do not trust, build the models and pipelines behind it, and turn the result into reporting a team can act on.
 
-Currently deepening expertise in **Power BI**, **SQL**, and **Python** while actively seeking Data Analyst and Technology Graduate roles in Melbourne.
+Most of my work has been in asset management, facilities operations and healthcare: cleaning large asset registers, building condition based remaining life logic and multi year capital forecasts, and putting Power BI on top of it. I also do the field end of it, capturing and condition rating assets on site.
 
----
-
-## Tech Stack
-
-**Languages & Querying**
-`Python` `SQL` `R` `PHP` `HTML` `NumPy` `Matplotlib` `Seaborn`
-
-**Data & Analytics**
-`pandas` `EDA` `Data Pipelines` `ETL` `Data Cleaning` `Power Query`
-
-**Visualisation**
-`Power BI` `DAX` `Tableau` `Excel` `Dashboard Design`
-
-**Cloud & Platforms**
-`Azure SQL` `Azure Synapse` `AWS (Fundamentals)` `Git` `GitHub` `Microsoft Copilot`
-
-**Methodology**
-`Agile` `Scrum` `Sprint Planning` `Version Control`
+Open to Data Analyst, BI Analyst and Business Analyst roles across Australia. Available now, full unrestricted working rights.
 
 ---
 
-## Featured Projects
+## Tech stack
 
-### 📊 [RBA Cash Rate Dashboard](https://github.com/Hemanth-Gowda23/RBA-Cash-Rate-Dashboard)
-Interactive Power BI dashboard analysing Australia's cash rate trends from 1990 to present. Built with DAX time intelligence functions and financial KPIs sourced from the Reserve Bank of Australia.
-`Power BI` `DAX` `Excel` `Financial Analytics`
+**Languages and querying**
+`Python` `SQL` `PostgreSQL` `DAX` `Power Query`
 
----
+**Data and analytics**
+`pandas` `NumPy` `ETL` `Data pipelines` `Data cleaning` `Validation` `Forecasting`
 
-### 🌱 [Smart Sprouts — IoT Water Management System](https://github.com/Hemanth-Gowda23/Smart_Sprouts_Fuzzy_Logic_Driven_IoT_based_smart_water_management_system_for_Vertical_Farming)
-IEEE published, KSCST recognised IoT system using fuzzy logic and Raspberry Pi to optimise water usage in vertical farming environments.
-`Python` `IoT` `Fuzzy Logic` `Raspberry Pi` `IEEE Published`
+**Reporting**
+`Power BI` `Tableau` `Excel` `Data modelling` `Row level security`
 
----
+**Delivery**
+`Requirements` `Process mapping` `UAT` `Technical writing` `Agile`
 
-### 🌾 [Sell and Buy Agro Products](https://github.com/Hemanth-Gowda23/SELL_AND_BUY_ARGO_PRODUCTS)
-Web application connecting farmers directly with buyers — removing intermediaries and enabling direct agricultural transactions.
-`HTML` `CSS` `JavaScript`
-
----
-
-## Experience Highlights
-
-- **Data Science Intern @ Woofya** (Jul–Nov 2025) — Built Python + SQL data pipelines, Power BI dashboards, and agile-delivered analytics in a real client environment
-- **IEEE Co-Author** — Peer-reviewed publication on IoT-based fuzzy logic systems for vertical farming (2023)
-- **KSCST Recognition** — 46th Student Project Programme, Karnataka State Council for Science and Technology
+**Platforms**
+`Git` `GitHub Actions` `Azure SQL` `REST APIs`
 
 ---
 
-## Certifications
+## Featured projects
 
-- 🔄 Microsoft PL-300: Power BI Data Analyst — *In Progress (2026)*
-- ✅ Data Analytics Job Simulation — Deloitte Australia, Forage (2025)
-- ✅ Forward Program — McKinsey & Company (2025)
-- ✅ SQL & DBMS Certification — PrepInsta (2023)
+### [RBA Cash Rate Dashboard](https://github.com/Hemanth-Gowda23/RBA-Cash-Rate-Dashboard)
+Power BI dashboard on the Australian cash rate, 1990 to now. DAX time intelligence measures, period comparison visuals and financial KPIs, sourced from the Reserve Bank of Australia.
+`Power BI` `DAX` `Time intelligence` `Financial KPIs`
+
+### [Smart Sprouts, IoT Water Management](https://github.com/Hemanth-Gowda23/Smart_Sprouts_Fuzzy_Logic_Driven_IoT_based_smart_water_management_system_for_Vertical_Farming)
+IEEE published and KSCST recognised. A fuzzy logic irrigation system for vertical farming, using Raspberry Pi and live sensors to drive adaptive watering.
+`Python` `IoT` `Fuzzy logic` `Raspberry Pi` `IEEE published`
+
+### [Sell and Buy Agro Products](https://github.com/Hemanth-Gowda23/SELL_AND_BUY_ARGO_PRODUCTS)
+Web platform helping farmers trade produce directly and share practice, cutting the intermediary out of small scale agricultural sales. Undergraduate project.
+`PHP` `MySQL` `HTML`
+
+More on the [portfolio site](https://hemanth-gowda23.github.io/Portfolio_Gowda23/), including a multi tenant work order platform taken to production and a city wide asset verification programme.
 
 ---
 
-## Currently
+## Experience
 
-- 📚 Building toward PL-300 certification
-- 🔨 Adding Python EDA and SQL portfolio projects
-- 📩 Open to Data Analyst and Technology Graduate opportunities in Melbourne
+**Business Analyst, SRP Global Consultancy** (Jul 2026 to Sep 2026)
+Power BI reporting and Python and SQL pipelines for asset management, healthcare and facilities operations. Condition based lifecycle logic, multi year capital forecasting, and reconciliation of internal models against third party BI output. Deployed to Sydney in August 2026 to run a city wide asset verification programme.
+
+**Data Analyst Intern, SRP Global Consultancy** (Apr 2026 to Jul 2026)
+Cleaned and validated large asset registers, documenting the decisions column by column. Built remaining life logic, replacement timing models and capital forecast tables, then the Power BI models on top.
+
+**Data Science Intern, Woofya** (Jul 2025 to Nov 2025)
+Replaced manual spreadsheet reporting with automated Python and SQL pipelines. Work featured at VET Expo 2025.
+
+---
+
+## Education and credentials
+
+- Master of Data Science, RMIT University (2024 to 2025)
+- Bachelor of Engineering, Information Science, Atria Institute of Technology (2019 to 2023)
+- Microsoft PL-300 Power BI Data Analyst, in progress 2026
+- IEEE publication, Smart Sprouts, peer reviewed 2023
+- KSCST 46th Student Project Programme, recognised 2022 to 2023
+- Data Analytics Job Simulation, Deloitte Australia, Forage 2025
+- Forward Program, McKinsey and Company 2025
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemanth_R-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hemanth-gowda-78b972222/)
-[![GitHub](https://img.shields.io/badge/GitHub-Hemanth--Gowda23-181717?style=flat&logo=github)](https://github.com/Hemanth-Gowda23)
-📧 hemanthkvt9@gmail.com
+- Portfolio: [hemanth-gowda23.github.io/Portfolio_Gowda23](https://hemanth-gowda23.github.io/Portfolio_Gowda23/)
+- LinkedIn: [in/hemanthgowda23](https://www.linkedin.com/in/hemanthgowda23/)
+- Email: hemanthkvt9@gmail.com
