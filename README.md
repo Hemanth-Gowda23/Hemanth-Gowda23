@@ -43,11 +43,11 @@ Open to Data Analyst, BI Analyst and Business Analyst roles across Australia. Av
 Power BI dashboard on the Australian cash rate, 1990 to now. DAX time intelligence measures, period comparison visuals and financial KPIs, sourced from the Reserve Bank of Australia.
 `Power BI` `DAX` `Time intelligence` `Financial KPIs`
 
-### [Smart Sprouts, IoT Water Management](https://github.com/Hemanth-Gowda23/Smart_Sprouts_Fuzzy_Logic_Driven_IoT_based_smart_water_management_system_for_Vertical_Farming)
+### [Smart Sprouts, IoT Water Management](https://github.com/Hemanth-Gowda23/smart-sprouts-iot)
 IEEE published and KSCST recognised. A fuzzy logic irrigation system for vertical farming, using Raspberry Pi and live sensors to drive adaptive watering.
 `Python` `IoT` `Fuzzy logic` `Raspberry Pi` `IEEE published`
 
-### [Sell and Buy Agro Products](https://github.com/Hemanth-Gowda23/SELL_AND_BUY_ARGO_PRODUCTS)
+### [Agro Products Marketplace](https://github.com/Hemanth-Gowda23/agro-products-marketplace)
 Web platform helping farmers trade produce directly and share practice, cutting the intermediary out of small scale agricultural sales. Undergraduate project.
 `PHP` `MySQL` `HTML`
 
