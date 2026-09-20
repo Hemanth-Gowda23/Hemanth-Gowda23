@@ -2,7 +2,7 @@
 
 **Data Analyst | Melbourne, Australia**
 
-Power BI, SQL, Python. Master of Data Science, RMIT. IEEE published.
+Power BI, SQL, Python, R. Master of Data Science, RMIT. IEEE published.
 
 **Portfolio: [hemanth-gowda23.github.io/Portfolio_Gowda23](https://hemanth-gowda23.github.io/Portfolio_Gowda23/)**
 
@@ -21,19 +21,19 @@ Open to Data Analyst, BI Analyst and Business Analyst roles across Australia. Av
 ## Tech stack
 
 **Languages and querying**
-`Python` `SQL` `PostgreSQL` `DAX` `Power Query`
+`Python` `SQL` `R` `PostgreSQL` `DAX` `Power Query`
 
 **Data and analytics**
 `pandas` `NumPy` `ETL` `Data pipelines` `Data cleaning` `Validation` `Forecasting`
 
 **Reporting**
-`Power BI` `Tableau` `Excel` `Data modelling` `Row level security`
+`Power BI` `Excel` `Data modelling`
 
 **Delivery**
 `Requirements` `Process mapping` `UAT` `Technical writing` `Agile`
 
 **Platforms**
-`Git` `GitHub Actions` `Azure SQL` `REST APIs`
+`Git` `GitHub Actions` `REST APIs`
 
 ---
 
@@ -63,7 +63,7 @@ Power BI reporting and Python and SQL pipelines for asset management, healthcare
 **Data Analyst Intern, SRP Global Consultancy** (Apr 2026 to Jul 2026)
 Cleaned and validated large asset registers, documenting the decisions column by column. Built remaining life logic, replacement timing models and capital forecast tables, then the Power BI models on top.
 
-**Data Science Intern, Woofya** (Jul 2025 to Nov 2025)
+**Data Analyst Intern, Woofya (RMIT Work Integrated Learning)** (Jul 2025 to Nov 2025)
 Replaced manual spreadsheet reporting with automated Python and SQL pipelines. Work featured at VET Expo 2025.
 
 ---
