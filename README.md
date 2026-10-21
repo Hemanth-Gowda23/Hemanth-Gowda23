@@ -2,85 +2,83 @@
 
 **Data Analyst | Melbourne, Australia**
 
-Power BI, SQL, Python, R. Master of Data Science, RMIT. IEEE published.
+I turn messy data into clear reports people can use. Power BI, SQL, Python.
+Master of Data Science, RMIT.
 
 **Portfolio: [hemanth-gowda23.github.io/Portfolio_Gowda23](https://hemanth-gowda23.github.io/Portfolio_Gowda23/)**
 
----
-
-## What I do
-
-I clean up data people do not trust, build the models and pipelines behind it, and turn the result into reporting a team can act on.
-
-Most of my work has been in asset management, facilities operations and healthcare: cleaning large asset registers, building condition based remaining life logic and multi year capital forecasts, and putting Power BI on top of it. I also do the field end of it, capturing and condition rating assets on site.
-
-Open to Data Analyst, BI Analyst and Business Analyst roles across Australia. Available now, full unrestricted working rights.
+Open to Data Analyst, BI Analyst and Business Analyst roles across Australia.
+Available now. Full working rights, no sponsorship needed.
 
 ---
 
-## Tech stack
+## What I have done
 
-**Languages and querying**
-`Python` `SQL` `R` `PostgreSQL` `DAX` `Power Query`
-
-**Data and analytics**
-`pandas` `NumPy` `ETL` `Data pipelines` `Data cleaning` `Validation` `Forecasting`
-
-**Reporting**
-`Power BI` `Excel` `Data modelling`
-
-**Delivery**
-`Requirements` `Process mapping` `UAT` `Technical writing` `Agile`
-
-**Platforms**
-`Git` `GitHub Actions` `REST APIs`
+- **Technical lead on a live work order app** (SRP Deck) with a small team. React, Node.js, Express, PostgreSQL. I built the invoice system, MFA and role based access, and an AI chat assistant on an LLM API.
+- **Power BI dashboards and weekly reports** for a company director.
+- **Data pipelines from a live API into a dashboard** at a pet health startup (Woofya), plus an AI chatbot and AI summaries. Shown at VET Expo 2025.
+- **Led a team of 3** on an 11 day asset audit in Sydney.
+- I write **Hours Back**, a LinkedIn newsletter about saving time with AI tools and MCP.
 
 ---
 
-## Featured projects
+## Skills
+
+**Data:** `SQL` `Python` `pandas` `R` `Excel`
+
+**BI:** `Power BI` `DAX` `Power Query` `Star schema` `Row level security` `Tableau`
+
+**Build:** `JavaScript` `React` `Node.js` `PHP` `Flask` `PostgreSQL` `Git`
+
+**Automate:** `Power Automate` `Power Apps` `SharePoint` `REST APIs`
+
+---
+
+## Projects
 
 ### [RBA Cash Rate Dashboard](https://github.com/Hemanth-Gowda23/RBA-Cash-Rate-Dashboard)
-Power BI dashboard on the Australian cash rate, 1990 to now. DAX time intelligence measures, period comparison visuals and financial KPIs, sourced from the Reserve Bank of Australia.
-`Power BI` `DAX` `Time intelligence` `Financial KPIs`
+Power BI dashboard of Australia's cash rate since 1990. DAX measures for the current rate and month on month change.
+`Power BI` `DAX` `Power Query`
 
-### [Smart Sprouts, IoT Water Management](https://github.com/Hemanth-Gowda23/smart-sprouts-iot)
-IEEE published and KSCST recognised. A fuzzy logic irrigation system for vertical farming, using Raspberry Pi and live sensors to drive adaptive watering.
-`Python` `IoT` `Fuzzy logic` `Raspberry Pi` `IEEE published`
+### [Portfolio and data stories](https://github.com/Hemanth-Gowda23/Portfolio_Gowda23)
+My site, plus interactive data stories built by hand in JavaScript and SVG: a fresh food supply chain game and the Hours Back chapters.
+`JavaScript` `SVG` `Data storytelling`
+
+### [Smart Sprouts](https://github.com/Hemanth-Gowda23/smart-sprouts-iot)
+Final year project: smart watering for vertical farms. Sensor dashboard in Flask with MQTT.
+`Python` `Flask` `MQTT` `IoT`
 
 ### [Agro Products Marketplace](https://github.com/Hemanth-Gowda23/agro-products-marketplace)
-Web platform helping farmers trade produce directly and share practice, cutting the intermediary out of small scale agricultural sales. Undergraduate project.
-`PHP` `MySQL` `HTML`
-
-More on the [portfolio site](https://hemanth-gowda23.github.io/Portfolio_Gowda23/), including a multi tenant work order platform taken to production and a city wide asset verification programme.
+Undergraduate database project: farmers list and sell produce. Flask with a MySQL database and triggers.
+`Python` `Flask` `MySQL`
 
 ---
 
 ## Experience
 
-**Business Analyst, SRP Global Consultancy** (Jul 2026 to Sep 2026)
-Power BI reporting and Python and SQL pipelines for asset management, healthcare and facilities operations. Condition based lifecycle logic, multi year capital forecasting, and reconciliation of internal models against third party BI output. Deployed to Sydney in August 2026 to run a city wide asset verification programme.
+**ICT Business Analyst, SRP Global Consultancy** (Jul 2026 to Sep 2026)
+
+Technical lead for SRP Deck, a live work order app. Power BI dashboards and weekly reports for the Director. Led a team of 3 on an asset audit in Sydney.
 
 **Data Analyst Intern, SRP Global Consultancy** (Apr 2026 to Jul 2026)
-Cleaned and validated large asset registers, documenting the decisions column by column. Built remaining life logic, replacement timing models and capital forecast tables, then the Power BI models on top.
 
-**Data Analyst Intern, Woofya (RMIT Work Integrated Learning)** (Jul 2025 to Nov 2025)
-Replaced manual spreadsheet reporting with automated Python and SQL pipelines. Work featured at VET Expo 2025.
+Power BI reports, data cleaning in Python and SQL, and a time ledger app in Power Apps, SharePoint and Power Automate.
 
----
+**Data Analyst Intern, Woofya (RMIT placement)** (Jul 2025 to Nov 2025)
 
-## Education and credentials
-
-- Master of Data Science, RMIT University (2024 to 2025)
-- Bachelor of Engineering, Information Science, Atria Institute of Technology (2019 to 2023)
-- Microsoft PL-300 Power BI Data Analyst, in progress 2026
-- IEEE publication, Smart Sprouts, peer reviewed 2023
-- KSCST 46th Student Project Programme, recognised 2022 to 2023
-- Data Analytics Job Simulation, Deloitte Australia, Forage 2025
-- Forward Program, McKinsey and Company 2025
+PHP and Python/SQL pipelines from a live API into a dashboard. AI chatbot and AI summaries. Shown at VET Expo 2025.
 
 ---
 
-## Connect
+## Education
+
+- Master of Data Science, RMIT University (2024 to 2025). HD in Machine Learning and Data Science Project
+- Bachelor of Engineering, Information Science, Atria Institute of Technology (VTU) (2019 to 2023). First Class
+- IEEE paper (co-author), Smart Sprouts, 2023
+
+---
+
+## Contact
 
 - Portfolio: [hemanth-gowda23.github.io/Portfolio_Gowda23](https://hemanth-gowda23.github.io/Portfolio_Gowda23/)
 - LinkedIn: [in/hemanthgowda23](https://www.linkedin.com/in/hemanthgowda23/)
